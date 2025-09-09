@@ -1,0 +1,82 @@
+RESULTADOS DOS TESTES
+========================================
+
+Arquivo: caso080.txt
+Processadores: 0
+Tarefas: 79
+Tempo MIN: 0
+Tempo MAX: 0
+----------------------------------------
+Arquivo: caso200.txt
+Processadores: 0
+Tarefas: 198
+Tempo MIN: 0
+Tempo MAX: 0
+----------------------------------------
+Arquivo: caso400.txt
+Processadores: 0
+Tarefas: 392
+Tempo MIN: 0
+Tempo MAX: 0
+----------------------------------------
+Arquivo: caso500.txt
+Processadores: 0
+Tarefas: 486
+Tempo MIN: 0
+Tempo MAX: 0
+----------------------------------------
+Arquivo: caso020.txt
+Processadores: 0
+Tarefas: 20
+Tempo MIN: 0
+Tempo MAX: 0
+----------------------------------------
+Arquivo: caso040.txt
+Processadores: 0
+Tarefas: 40
+Tempo MIN: 0
+Tempo MAX: 0
+----------------------------------------
+Arquivo: caso010.txt
+Processadores: 0
+Tarefas: 10
+Tempo MIN: 0
+Tempo MAX: 0
+----------------------------------------
+Arquivo: caso060.txt
+Processadores: 0
+Tarefas: 60
+Tempo MIN: 0
+Tempo MAX: 0
+----------------------------------------
+Arquivo: caso100.txt
+Processadores: 0
+Tarefas: 100
+Tempo MIN: 0
+Tempo MAX: 0
+----------------------------------------
+Arquivo: caso300.txt
+Processadores: 0
+Tarefas: 298
+Tempo MIN: 0
+Tempo MAX: 0
+----------------------------------------
+
+========================================
+RESUMO FINAL
+========================================
+
+Total de casos testados: 10
+Tempo total de processamento: 0.008 segundos
+
+Detalhes por caso:
+caso080.txt: P=0, T=79, MIN=0, MAX=0, Tempo=0.001s
+caso200.txt: P=0, T=198, MIN=0, MAX=0, Tempo=0.001s
+caso400.txt: P=0, T=392, MIN=0, MAX=0, Tempo=0.001s
+caso500.txt: P=0, T=486, MIN=0, MAX=0, Tempo=0.002s
+caso020.txt: P=0, T=20, MIN=0, MAX=0, Tempo=0.000s
+caso040.txt: P=0, T=40, MIN=0, MAX=0, Tempo=0.000s
+caso010.txt: P=0, T=10, MIN=0, MAX=0, Tempo=0.000s
+caso060.txt: P=0, T=60, MIN=0, MAX=0, Tempo=0.000s
+caso100.txt: P=0, T=100, MIN=0, MAX=0, Tempo=0.000s
+caso300.txt: P=0, T=298, MIN=0, MAX=0, Tempo=0.002s

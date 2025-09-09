@@ -1,0 +1,80 @@
+RELATÓRIO DE TESTES - COMPARAÇÃO DE ALGORITMOS DE ESCALONAMENTO
+================================================================================
+
+Total de testes: 11
+Testes bem-sucedidos: 11
+Testes com erro: 0
+
+RESULTADOS DETALHADOS:
+----------------------------------------
+Arquivo;Proc;Tasks;Ciclo;MIN_Original_M;MIN_Original_T(ms);MAX_Original_M;MAX_Original_T(ms);FIFO_M;FIFO_T(ms);Load_Balanced_M;Load_Balanced_T(ms);Critical_Path_M;Critical_Path_T(ms);MIN_Optimized_M;MIN_Optimized_T(ms);MAX_Optimized_M;MAX_Optimized_T(ms)
+caso010.txt;0;10;Não;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00
+caso020.txt;0;20;Não;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00
+caso040.txt;0;40;Não;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00
+caso060.txt;0;60;Não;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00
+caso080.txt;0;79;Não;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00
+caso100.txt;0;100;Não;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00
+caso150.txt;0;146;Não;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00
+caso200.txt;0;198;Não;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00
+caso300.txt;0;298;Não;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00
+caso400.txt;0;392;Não;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00
+caso500.txt;0;486;Não;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00;0;0.00
+
+COMPARAÇÃO ENTRE ESTRATÉGIAS:
+----------------------------------------
+MIN_Original:
+  Makespan médio: 0.00
+  Makespan mínimo: 0
+  Makespan máximo: 0
+  Tempo médio: 0.00ms
+  Tempo mínimo: 0.00ms
+  Tempo máximo: 0.00ms
+
+MAX_Original:
+  Makespan médio: 0.00
+  Makespan mínimo: 0
+  Makespan máximo: 0
+  Tempo médio: 0.00ms
+  Tempo mínimo: 0.00ms
+  Tempo máximo: 0.00ms
+
+FIFO:
+  Makespan médio: 0.00
+  Makespan mínimo: 0
+  Makespan máximo: 0
+  Tempo médio: 0.00ms
+  Tempo mínimo: 0.00ms
+  Tempo máximo: 0.00ms
+
+Load_Balanced:
+  Makespan médio: 0.00
+  Makespan mínimo: 0
+  Makespan máximo: 0
+  Tempo médio: 0.00ms
+  Tempo mínimo: 0.00ms
+  Tempo máximo: 0.00ms
+
+Critical_Path:
+  Makespan médio: 0.00
+  Makespan mínimo: 0
+  Makespan máximo: 0
+  Tempo médio: 0.00ms
+  Tempo mínimo: 0.00ms
+  Tempo máximo: 0.00ms
+
+MIN_Optimized:
+  Makespan médio: 0.00
+  Makespan mínimo: 0
+  Makespan máximo: 0
+  Tempo médio: 0.00ms
+  Tempo mínimo: 0.00ms
+  Tempo máximo: 0.00ms
+
+MAX_Optimized:
+  Makespan médio: 0.00
+  Makespan mínimo: 0
+  Makespan máximo: 0
+  Tempo médio: 0.00ms
+  Tempo mínimo: 0.00ms
+  Tempo máximo: 0.00ms
+
